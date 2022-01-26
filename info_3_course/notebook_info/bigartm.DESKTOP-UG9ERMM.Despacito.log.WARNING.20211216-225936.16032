@@ -1,0 +1,8 @@
+Log file created at: 2021/12/16 22:59:36
+Running on machine: DESKTOP-UG9ERMM
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W1216 22:59:36.312975 11768 helpers.cc:221] File already exists: school_batches\aaaaaa.batch
+W1216 22:59:36.317972  9520 helpers.cc:221] File already exists: school_batches\aaaaac.batch
+W1216 22:59:36.322969  6516 helpers.cc:221] File already exists: school_batches\aaaaae.batch
+W1216 22:59:36.328966 11372 helpers.cc:221] File already exists: school_batches\aaaaad.batch
+W1216 22:59:36.334962 18840 helpers.cc:221] File already exists: school_batches\aaaaab.batch
